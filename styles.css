@@ -14,6 +14,7 @@
 header {
     padding: 30px;
     background-color: #45171d;
+    box-shadow: 5px 5px #262626;
 }
 
 #headerBio {
