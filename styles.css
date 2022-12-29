@@ -1,0 +1,65 @@
+#logo1 {
+    color: #0bd3d3;
+}
+
+#logo2 {
+    color: #f890e7;
+}
+
+#logo1, #logo2 {
+    font-size: 60px;
+    font-family: Brush Script MT;
+}
+
+header {
+    padding: 30px;
+    background-color: #45171d;
+}
+
+#headerBio {
+    color: #f1b963;
+    font-size: 25px;
+}
+
+.menu {
+    display: flex;
+}
+
+body:not(header) {
+    background-color: #f1b963;
+}
+
+.chicken-tikka, .biryani {
+    margin-top: 2%;
+    margin-right: 5%;
+    border-right: dotted #45171d;
+    
+}
+
+.samosas {
+    margin-top: 2%;
+}
+
+footer {
+    margin-top: 20%;
+    /* try to move */
+}
+
+img {
+    width: 300px; 
+    height: auto;
+}
+
+.menu h2 {
+    background-color: #45171d;
+    color: #f1b963;
+}
+
+/* ---------- RESPONSIVE DESIGNS ---------- */
+
+@media screen and (max-width: 750px){
+    img {
+        width: 200px;
+        height: auto
+    }
+}
