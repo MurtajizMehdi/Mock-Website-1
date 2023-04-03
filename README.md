@@ -1,4 +1,4 @@
-# Mock-Website-1
+# Mock Website 1: Restaurant home page / menu
 
 
 Mock website design for restaurant. Built from scratch using HTML and CSS.
