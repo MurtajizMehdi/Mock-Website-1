@@ -17,3 +17,12 @@ The purpose of this project is to get me to be more familiar and comfortable usi
 <h4>Possibile new design?</h4>
 
 ![Screen Shot 2023-04-15 at 10 23 27 PM](https://user-images.githubusercontent.com/90480945/232329750-062a94ed-bd3b-43d2-b044-61195c464e7c.png)
+
+
+<ul>
+  <li>Create responsive navigation bar</li>
+  <li>Space out and marginalize content accordingly</li>
+  <li>Work on smoothing out UI</li>
+  <li>Create separate page for menu, include only specials in front page</li>
+  <li>Make buttons to "Add to Cart" with each item's respective choices being able to be adjusted</li>
+</ul>
