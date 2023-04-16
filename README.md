@@ -15,5 +15,5 @@ The purpose of this project is to get me to be more familiar and comfortable usi
 <h2>Features being worked on</h2>
 
 <h4>Possibile new design?</h4>
-![Screen Shot 2023-04-15 at 10 23 27 PM](https://user-images.githubusercontent.com/90480945/232329637-d18108da-6d74-4035-8132-a4f1d28ce76b.png)
 
+![Screen Shot 2023-04-15 at 10 23 27 PM](https://user-images.githubusercontent.com/90480945/232329750-062a94ed-bd3b-43d2-b044-61195c464e7c.png)
