@@ -15,4 +15,4 @@ The purpose of this project is to get me to be more familiar and comfortable usi
 <h2>Features being worked on</h2>
 
 <h4>Possibile new design?</h4>
-![Screen Shot 2023-04-15 at 10 23 27 PM](https://user-images.githubusercontent.com/90480945/232262926-ff653c57-16cb-4bb9-b947-2b2784dc1509.png)
+<img src="![Screen Shot 2023-04-15 at 10 23 27 PM](https://user-images.githubusercontent.com/90480945/232262926-ff653c57-16cb-4bb9-b947-2b2784dc1509.png)">
