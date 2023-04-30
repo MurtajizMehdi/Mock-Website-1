@@ -1,0 +1,92 @@
+
+/* ---------------- LOGO STYLES ---------------- */
+#logo1 {
+    color: #0bd3d3;
+}
+
+#logo2 {
+    color: #f890e7;
+}
+
+#logo1, #logo2 {
+    font-size: 60px;
+    font-family: Brush Script MT;
+}
+
+
+
+/* ---------------- HEADER STYLES ---------------- */
+header {
+    padding: 30px;
+    background-color: #45171d;
+    box-shadow: 5px 5px #666699;
+}
+
+#headerBio {
+    color: #f890e7;
+    font-size: 25px;
+}
+
+
+/* ---------------- GENERAL STYLES ---------------- */
+
+.menu {
+    display: flex;
+}
+
+body:not(header) {
+    background-color: black;
+}
+
+.chicken-tikka, .biryani {
+    margin-top: 2%;
+    margin-right: 5%;
+    border-right: dotted #0bd3d3;
+    
+}
+
+.samosas {
+    margin-top: 2%;
+}
+
+footer {
+    margin-top: 20%;
+    color: #f890e7;
+    /* try to move */
+}
+
+img {
+    width: 300px; 
+    height: auto;
+}
+
+.menu h2 {
+    background-color: #45171d;
+    color: #f890e7;
+    font-family: Bradley Hand, cursive;
+}
+
+.menu-item p {
+    color: #f890e7;
+}
+
+
+/* ---------- RESPONSIVE DESIGNS ---------- */
+
+@media screen and (max-width: 750px){
+    img {
+        width: 200px;
+        height: auto
+    }
+}
+
+
+
+
+/* COLOR DICTIONARY
+-------------------
+1. Hot Pink = #f890e7
+2. Vice Blue = #0bd3d3
+3. Dark Red = #45171d
+4. Spicy Yellow = #f1b963
+ */
