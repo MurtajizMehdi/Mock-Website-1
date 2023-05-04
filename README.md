@@ -17,6 +17,9 @@ The purpose of this project is to get me to be more familiar and comfortable usi
 <h4>Possibile new design?</h4>
 
 ![Screen Shot 2023-04-15 at 10 23 27 PM](https://user-images.githubusercontent.com/90480945/232329750-062a94ed-bd3b-43d2-b044-61195c464e7c.png)
+<br>
+![Screen Shot 2023-05-01 at 8 08 04 AM](https://user-images.githubusercontent.com/90480945/236215755-d677b7cc-a1fa-48f2-999f-a8e683d29be8.png)
+
 
 
 <ul>
