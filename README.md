@@ -9,7 +9,7 @@ The purpose of this project is to get me to be more familiar and comfortable usi
 <br>
 <br>
 ![Screen Shot 2023-05-10 at 3 01 41 PM](https://github.com/MurtajizMehdi/Mock-Website-1/assets/90480945/b78da212-ef63-4f63-8855-ad71c61f5718)
-![Screen Shot 2023-05-10 at 3 01 58 PM](https://github.com/MurtajizMehdi/Mock-Website-1/assets/90480945/638dc13b-ae70-4bd6-ab6a-b4f4be7b8b24)
+![Screen Shot 2023-05-10 at 3 06 41 PM](https://github.com/MurtajizMehdi/Mock-Website-1/assets/90480945/78d91844-4dc6-4672-99e6-e51d539f29c3)
 
 
 
