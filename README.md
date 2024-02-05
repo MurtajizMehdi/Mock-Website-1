@@ -10,17 +10,3 @@ The purpose of this project is to get me to be more familiar and comfortable usi
 <br>
 ![Screen Shot 2023-05-10 at 3 01 41 PM](https://github.com/MurtajizMehdi/Mock-Website-1/assets/90480945/b78da212-ef63-4f63-8855-ad71c61f5718)
 ![Screen Shot 2023-05-10 at 3 06 41 PM](https://github.com/MurtajizMehdi/Mock-Website-1/assets/90480945/78d91844-4dc6-4672-99e6-e51d539f29c3)
-
-
-
-
-
-<h2>Features being worked on</h2>
-<ul>
-  <li>Create responsive navigation bar</li>
-  <li>Space out and marginalize content accordingly</li>
-  <li>Work on smoothing out UI</li>
-  <li>Create separate page for menu, include only specials in front page</li>
-  <li>Make buttons to "Add to Cart" with each item's respective choices being able to be adjusted</li>
-</ul>
-
